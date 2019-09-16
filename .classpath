@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Training QA/Selenium Training/Installation Stuffs/Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
