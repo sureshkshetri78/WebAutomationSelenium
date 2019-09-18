@@ -14,6 +14,8 @@ public class test1 {
 		driver.manage().window().maximize();
 		driver.findElement(By.xpath("//*[@id=\"search\"]")).sendKeys("Suresh Basnet");
 		driver.findElement(By.xpath("//*[@id=\"search-icon-legacy\"]")).click();
+		driver.findElement(By.xpath("//*[@id=\"text\"]")).click();
+	
 		
 	}
 
