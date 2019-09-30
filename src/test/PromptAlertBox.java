@@ -15,6 +15,7 @@ public class PromptAlertBox {
 		driver.findElement(By.id("prompt")).click();
 		Alert pA = driver.switchTo().alert();
 		System.out.println(pA.getText());
+		pA.sendKeys("Suresh Basnet");
 		pA.accept();
 
 	}
